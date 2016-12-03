@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Boolean state  = true;
 
     public void draw (View view) {
-
+/*Test*/
 
         ImageView counter = (ImageView) view;
 
