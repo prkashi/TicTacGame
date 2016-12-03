@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public void draw (View view) {
 /*Test*/
 
+        /* Hey Man */
+
         ImageView counter = (ImageView) view;
 
         int tappedCounter = Integer.parseInt(counter.getTag().toString());
